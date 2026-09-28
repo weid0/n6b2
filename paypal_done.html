@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ThemePark - Payment Approved</title>
+<style>
+  :root { --bg: #0f1115; --card: #181b22; --text: #f2f2f2; --sub: #b9c0cc; --muted: #7d8593; --accent: #ffcc33; --ok: #7ee08a; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--text); font-family: "Segoe UI", "Noto Sans JP", "Noto Sans KR", system-ui, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 48px; text-align: center; }
+  .hero { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 14px; display: block; background: var(--card); box-shadow: 0 10px 40px rgba(0,0,0,.45); }
+  .badge { display: inline-block; margin: 28px 0 10px; padding: 6px 14px; border-radius: 999px; background: rgba(126,224,138,.12); color: var(--ok); font-weight: 700; letter-spacing: .04em; font-size: 14px; }
+  h1 { font-size: clamp(26px, 5vw, 38px); margin: 6px 0 10px; }
+  .en { font-size: clamp(17px, 3vw, 21px); color: var(--text); margin: 0 0 22px; line-height: 1.5; }
+  .ja { font-size: clamp(15px, 2.6vw, 18px); color: var(--sub); margin: 0 0 14px; line-height: 1.6; }
+  .ko { font-size: 13px; color: var(--muted); margin: 0; line-height: 1.6; }
+  b.key { color: var(--accent); }
+  hr { border: 0; border-top: 1px solid #2a2f3a; margin: 26px auto; max-width: 420px; }
+  footer { margin-top: 30px; font-size: 12px; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <img class="hero" id="hero" alt="ThemePark">
+  <div class="badge">✓ PAYPAL</div>
+  <h1>Payment approved!</h1>
+  <p class="en">Go back to the game and press <b class="key">[Confirm Payment]</b><br>to receive your credits.</p>
+  <hr>
+  <p class="ja">お支払いが承認されました!<br>ゲームに戻って <b class="key">[決済完了を確認]</b> を押すと、クレジットがチャージされます。</p>
+  <p class="ko">결제가 승인되었습니다! 게임으로 돌아가 <b>[결제 완료 확인]</b>을 누르면 크레딧이 충전됩니다.</p>
+  <footer>ThemePark · You can close this page.</footer>
+</main>
+<script>
+  // 두 장 중 하나를 무작위로
+  var imgs = ["https://raw.githubusercontent.com/weid0/n6b2/main/donate1.jpg", "https://raw.githubusercontent.com/weid0/n6b2/main/donate2.jpg"];
+  document.getElementById("hero").src = imgs[Math.floor(Math.random() * imgs.length)];
+</script>
+</body>
+</html>
