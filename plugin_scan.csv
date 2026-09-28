@@ -1,0 +1,250 @@
+﻿파일,플러그인,제작자,lang사용,유저노출 한국어 문자열,한글 글자수,로그,관리자,lang사전,예시
+DEnchant.cs,DEnchant,YaMang -w- + MooDDang/VibeCoding,X,644,8514,65,9,0,"""강화"" / ""<color=red>RocketFire 권한이 없습니다. (rocketfire.use)< / ""<color=#00ff4c>RocketFire 활성화</color>"""
+VibeDonation.cs,VibeDonation,MooDDang + VibeCoding,X,416,5785,13,11,0,"""앱 연동 자동 후원 시스템 (크레딧 선불 충전 방식 / 분산형 데이터 아키텍처)"" / ""홍길동"" / ""기타"""
+TheCard.cs,TheCard,MooDDang + VibeCoding,X,276,2677,5,8,0,"""카드를 모으고 세트/도감/강화/분해/합성을 제공하여 능력치를 보너스 하는 플러그인"" / ""근접"" / ""총기"""
+ZZombieWave.cs,Zombie Wave,YaMang -w-,X,243,2044,19,3,0,"$""{_Wave} Wave 정비중"" / $""웨이브 {_Wave}"" / $""버전 {Version}  |  _waveStatus={_waveStatus}  _end"
+ThemeChallenger.cs,ThemeChallenger,Mooddang + VibeCoding,X,169,1819,14,10,0,"""기차역 아레나 기반 스테이지 챌린지 컨텐츠"" / ""브론즈"" / ""실버"""
+Tutorial.cs,Tutorial,MooDDang + VibeCoding,X,165,2058,5,0,10,"""신규 유저를 위한 인터랙티브 튜토리얼(테마 스토리)과 세계관 내러티브(메인 시나리오) 퀘 / ""테마파크 안내양"" / ""<color=orange>[테마 스토리 알림]</color> \n새로운 테마 스토리가 있"
+ZBuyStatus.cs,ZBuyStatus,YaMang -w- + MooDDang / VibeCoding,X,150,1234,9,4,0,"""서약 - 태양(무력/행운) / 달(체력/보호)"" / $""— 계속 False 면 oxide.reload ImageLibrary 로 로드 큐를 초 / ""이 지역에서는 서약의 가호가 자동으로 잠듭니다."""
+ZGiantDrone.cs,ZGiantDrone,MooDDang + Gemini,X,131,1564,10,0,0,"""드론 가디언"" / ""작전 성공 보급품"" / ""정제된 특수 금속"""
+BonusLoot.cs,Bonus Loot,YaMang -w- / MooDDang + Gemini,O,121,1041,5,8,4,"$""{_config.generalSettings.Prefix} 메달 장착을 해제했습니다."" / $""{_config.generalSettings.Prefix} 메달을 장착했습니다!"" / $""{_config.generalSettings.Prefix} 칭호를 <color=#ff8"
+TruckerEvent.cs,TruckerEvent,badcop,O,88,537,3,0,20,"""이 상품은 {0} 등급부터 구매할 수 있습니다."" / ""이 상품은 {0} 등급이 되면 열립니다."" / ""잘못된 상품입니다."""
+GuardianDroneUpgrade.cs,GuardianDroneUpgrade,MooDDang + VibeCoding,X,72,984,6,5,0,"""드론 강화 시스템 및 레벨 제한 기반 AI 자동 파밍 매니저"" / ""접착제"" / ""기본 하급 자원지"""
+GroupChat.cs,Group Chat,YaMang -w-,X,69,851,0,0,0,"""그룹 채팅이 비활성화 되었습니다."" / ""그룹 채팅이 활성화 되었습니다."" / $""당신이 가입 되어있는 그룹이 없습니다."""
+Battlepass.cs,Battlepass,MooDDang & Vibecoding,X,65,617,1,5,0,"""[테마패스]"" / ""출석 체크"" / ""서버에 접속하세요."""
+EventTeleportManager.cs,Event Teleport Manager,Mooddang + vibecoding,X,57,815,1,0,0,"""컨텐츠 알리미 - 이벤트 현황/쿨타임 조회 및 이동"" / ""심연 웨이브"" / ""훅"""
+ExtraFishing.cs,ExtraFishing,NINJA WORKS,O,57,986,5,1,0,"""양식"" / ""가능"" / ""<color=#ff6b6b>불가</color>"""
+HogwartRegacy.cs,Hogwart Regacy,YaMang -w- + MooDDang / VibeCoding,X,54,529,1,1,0,"""마법 사용 불가지역 입니다!"" / $""마법이 활성화 상태가 아닙니다."" / $""<color=red>당신은 데이터가 없습니다. 재접 해주세요.</color>"""
+Giveaway.cs,Giveaway,YaMang -w-,X,48,401,0,0,0,"""경품뽑기 플러그인"" / ""<color=red>관리자 전용 명령어 입니다.</color>"" / ""페이지가 잘못되었습니다."""
+IQGuardianDrone.cs,IQGuardianDrone,Mercury,O,47,753,1,0,0,"""<color=#ff5555>⚠ 제한 구역에 진입하여 드론이 강제 회수되었습니다.</col / $""<color=#ff5555>◆ 드론이 파괴되었습니다!\n물속에 빠졌거나 맵 밖으로 빠져 / $""<color=#55ff55>◆ 예비 드론 통신망을 통해 장비와 탄약을 본부에 전송했습니"
+DayRewards.cs,Day Rewards,YaMang -w- + MooDDang / VibeCoding,X,43,329,1,0,0,"""출석 체크"" / $""[주말 추가 보상] {remaining.Minutes}분 {remaining.Secon / ""오늘은 더 이상 수령할 수 없습니다. 내일 00시부터 수령해주세요!"""
+Class1.cs,Class1,YaMang -w- / Optimized / BackpackFixed,X,32,355,3,0,0,"""명령어: \n"" / ""list 스팀아이디 - 플레이어 데이터 목록 전체 확인.\n"" / ""check 스팀아이디 번호 - 특정 데이터 아이템 상세 확인.\n"""
+DiscordAuth.cs,Discord Auth,Tricky & OuTSMoKE / Mooddang custom + VibeCoding,O,32,814,4,2,0,"""계정 인증"" / ""인증을 원하시면 인게임 채팅창에 `/auth`를 입력 후, **발급받은 5자리 코드를 이 / ""아직 인증 절차가 진행되지 않았습니다."""
+GUIShop.cs,GUI Shop,Mooddang + VibeCoding,X,32,396,2,0,0,"""스킨이 적용된 아이템 {0}개는 판매에서 빠졌습니다. 하단의 [스킨 장비 판매]를 체크하 / ""강화장비 목록을 불러오지 못해 스킨 아이템 판매를 막았습니다. 관리자에게 문의해 주세요. / ""부착물/방탄판이 들어있는 {0}개는 판매에서 빠졌습니다. 먼저 분리한 뒤 판매해 주세요."
+CustomizeNPC.cs,CustomizeNPC,themapark,X,30,313,15,0,0,"""프로필 기반 커스텀 NPC 스폰/루팅/사운드 (NpcSpawn 확장)"" / ""로쿤 변이 좀비"" / ""크아아아악!"""
+CasinoStakes.cs,CasinoStakes,themapark,X,28,355,3,1,0,"""바닐라 도박 기물(슬롯/블랙잭/포커)의 판돈 규모를 서버 배율에 맞게 키운다."" / ""<color=#ffcc55>[슬롯]</color> 기계에 그려진 숫자는 바닐라 값이라 실 / ""실제 1회 비용 <color=#ffcc55>{0:N0}</color> (배율 x5 이면 "
+ServerRewards.cs,Server Rewards,k1lly0u,O,27,281,0,4,0,"""존재하지 않는 플레이어거나 유효하지 않은 ID입니다."" / ""상점/퀘스트 지급"" / ""관리자 지급"""
+Backpackstake.cs,Backpackstake,Tangerine,O,25,398,0,0,0,"$""가방 소지 한도({limit}개)에 도달하여 주울 수 없습니다."" / ""보유권한보다 칸수가 많아서 아이템을 넣을 수 없습니다."" / ""강화 장비나, 일부 아이템(가방 포함)은 휴대용 가방에 넣을 수 없습니다."""
+EscapeTool.cs,EscapeTool,Assistant,X,25,474,2,0,0,"""탈출 실패: 검사 중 마우스(시선)를 움직였습니다.\n움직이지 말고 다시 시도하세요!\n / ""사용자 요청으로 탈출 시퀀스가 종료되었습니다."" / $""완전 탈출 쿨타임이 남았습니다. 남은 시간: {left:F0}초"""
+ConvertKor.cs,한글변환,RedMat/KR_WOLF,O,23,110,0,0,24,"""한글변환"" / ""영문타자 한글 변환"" / ""활성화"""
+PersonalPlanter.cs,Personal Planter,MooDDang & Gemini,X,22,260,0,0,0,"""오직 자신의 화분에만 작물을 심고 수확할 수 있도록 제한합니다."" / $""<color=#00ff00>{ownerName}</color> 님의 화분입니다. 타인의 / $""<color=#00ff00>{ownerName}</color> 님의 화분입니다. 수확할"
+Backpacks.cs,Backpacks,WhiteThunder,O,20,317,0,0,0,"""가방 열기를 취소했습니다."" / ""⚠ 경 고 (WARNING) ⚠"" / $""권한 기간 만료로 인해 가방 용량이 [ {newCapacity}칸 ]으로 줄어듭니다.\"
+Crafts.cs,Crafts,Mevent,O,20,285,1,0,0,"""특수 제작"" / ""<color=#FF8E8E>[회수 불가]</color> 차량 안에 물건이 남아 있습니다: / ""\n연료통/짐칸을 비운 뒤 다시 회수하세요."""
+TimedPermissions.cs,Timed Permissions,LaserHydra / Mooddang + VibeCoding Custom,O,19,286,0,0,0,"""안전한 권한 제거 로직(좀비 방지, 큐 시스템) 및 Overflow 방지 적용 버전"" / ""(코어 권한 및 JSON 데이터 삭제 완료)"" / $""'{permission}' 권한이 {target.Name}에게서 완벽하게 제거되었습니다"
+HealthUI.cs,Health UI,YaMang -w- / Mooddang + VibeCoding,X,15,99,0,1,0,"""(없음)"" / $""  표시 모드        : {(NativeMode ? "" / $""  플러그인 총합    : {(data != null ? data.MaxHealth :"
+LootDefender.cs,Loot Defender,"Author Egor Blagov, Maintainer nivex",O,15,121,3,0,0,"$""[설정] 헬기={config.Helicopter.TooHotUntil}초  브래들리={ / $""  위성={config.DebrisCooling.Satellite}초  기타={conf / $""  상자불={config.DebrisCooling.CrateFire}초"""
+SmartGun.cs,Smart Gun,YaMang -w- / MooDDang + VibeCoding,X,14,128,3,0,0,"$""[ 스마트 건 Lv.{level} ]"" / ""해당 지역에서는 스마트건을 사용할 수 없습니다."" / ""활성화 되었습니다."""
+DiscordPatchNote.cs,Discord Patch Note,Gemini,X,13,64,0,0,0,"$""[PatchNote] 설정 오류: '{category}' 채널 ID가 없습니다."" / $""[{category.ToUpper()}] 데이터를 불러오는 중..."" / ""게시글이 없습니다."""
+EcoSrLog.cs,Eco Sr Log,YaMang -w- + MooDDang / VibeCoding,X,13,81,1,0,0,"$""명령어 쿨타임: {Math.Ceiling(10f - passed)}초 남음"" / ""[획득한 재화]"" / $""달러: {data.Eco.ToTalGet:N0}"""
+MinigunChanger.cs,Minigun Changer,YaMang -w-,X,13,154,0,0,0,"""들고 있는 무기가 없습니다."" / $""{active.name ?? active.info.displayName.english} / ""총알이 소총탄 으로 변경 되었습니다."""
+MiniCopterOptions.cs,Mini-Copter Options,Pho3niX90,X,12,145,0,0,0,"""권한이 없습니다. (myminicopter.spawn)"" / ""이미 소환된 미니콥터가 있습니다. '/nomini'로 제거하거나 '/gmini'로 호출하 / $""재소환까지 {Math.Ceiling((COOLDOWN_SECONDS - passed) "
+ClientOptimizer.cs,ClientOptimizer,User,X,11,201,0,0,0,"$""<color=orange>이미 쪽지를 발급받았습니다. {Mathf.CeilToInt(t / ""시스템 오류: 쪽지 아이템을 생성할 수 없습니다."" / ""최적화 치트시트 (F1 콘솔에 입력)"""
+MistakeProtector.cs,Mistake Protector,MooDDang + VibeCoding,X,11,269,3,0,0,"""강화 아이템 설정"" / ""스킨 아이디 (워크샵)"" / ""스킨 아이디 (워크샵)"""
+CorpseTeleporter.cs,Corpse Teleporter,Gemini,O,10,176,3,0,6,"""<b><color=#FF4500>[원격 시체회수 불가 구역(PvP/던전 등) 안내]</c / ""<b><color=#FFD700>[원격 시체회수 안내]</color></b>\n\n원격회 / ""<color=#7CFC00>강화장비는  <b>/we backup</b>  명령어로 회수하"
+PermTransfer.cs,Permission Transfer,MooDDang,X,10,119,0,0,0,"""권한이 없습니다."" / ""사용법: cp check <steamID> | cp give <from_steamID>  / $""해당 유저({targetId})가 보유한 개인 권한이 없습니다."""
+TurretItemCrashGuard.cs,TurretItemCrashGuard,VibeCoding,X,10,126,3,2,0,"""GameManifest 프리팹 캐시에 박힌 null 을 복구해 AutoTurret.IsV / ""자동(1차)"" / ""자동(2차)"""
+EventRewardCooldown.cs,Event Reward Cooldown,Mooddang + vibecoding,X,9,99,8,2,0,"""랜덤 인카운터 이벤트 소유권에 유저별 쿨타임을 건다. 이벤트 플러그인 본체는 건드리지 않 / ""<color=#88ff88>[이벤트]</color> 소유권을 획득하여 남은 시간이 <co / ""<color=#FF5555>[화물기 추락]</color> 보상은 <color=#FFCC4"
+SpeedDrink.cs,SpeedDrink,MooDDang + VibeCoding,X,9,104,0,0,0,"""몬스터(이속x1.5)"" / ""몬스터 블랙(이속x2.0)"" / ""<color=#ff5555>⚠ 제한 구역(PVP)에 진입하여 스피드 드링크 효과가 강제 "
+Arena.cs,Arena,k1lly0u,O,8,220,6,0,0,"""<color=#ff5555>[콜루세움]</color> 이전 아이템을 돌려드리는 중입니다. / $""<color=#ff5555>[콜루세움]</color> 아직 돌려받지 못한 아이템이 있습 / $""<color=#ff5555>[콜루세움]</color> 현재 참가하려는 아레나 전장에서 "
+LSkins.cs,LSkins,LAGZYA,O,8,137,2,0,0,"$""'{text2}.json' 스킨 파일 로드 실패 (Failed to load skin  / $""스킨 데이터 로딩 중 심각한 오류 발생 (Error while loading skin  / ""플레이어 데이터가 비어있어 새로 생성합니다. (Player data is null, cr"
+MDAlarm.cs,MDAlarm,YaMang -w-,X,8,24,0,0,0,"""당첨자"" / ""경품 이름"" / ""제고"""
+AHitIcon.cs,AHitIcon,FastBurst / Mooddang + Gemini VibeCoding custom,O,6,85,0,0,0,"""<color=orange>[DPS]</color> 측정을 취소했습니다."" / ""<color=red>[DPS]</color> 측정 시간은 최대 120초까지만 가능합니다. / ""<color=red>[DPS]</color> 1분 동안 타격이 없어 측정이 자동 취소되었"
+AttackEffect.cs,Attack Effect,YaMang + Gemini,X,6,101,0,0,0,"$""구문 오류: \n/ae on - 이펙트 활성화\n/ae off - 이펙트 비활성화\n/ / $""<color=green>이펙트가 활성화되었습니다.</color>"" / $""<color=red>이펙트가 비활성화되었습니다.</color>"""
+BossSpawner.cs,Boss Spawner,YaMang -w-,X,6,34,3,0,0,"""개발자 야망"" / ""우왕 무땅"" / ""좌왕 무땅"""
+EntityLimit.cs,Entity Limit,Orange/UserModified,O,5,125,0,3,0,"""  동일 지문 후보 없음. (변형 아이템이 아직 월드에 설치되지 않았거나, 스탯이 달라  / $""  동일 지문 후보 {matches.Count}개: {string.Join("" / ""  (모두 이미 그룹에 포함되어 있습니다. 추가 작업 불필요)"""
+GUIAnnouncements.cs,GUIAnnouncements,JoeSheep / Rewrite,X,5,38,1,0,0,"""권한이 없습니다. (GUIAnnouncements.announce)"" / $""사용법: /{_config.General.Command} <메시지>"" / ""권한이 없습니다. (GUIAnnouncements.toggle)"""
+MapSensorDefaults.cs,Map Sensor Defaults,MooDDang + Claude,X,5,70,1,0,0,"""RustEdit 맵에 배치된(소유자 없는) HBHF 센서의 감지 설정을 서버 시작 후 자 / $""HBHF 센서 {sensorCount}개 발견 / {applied}개에 설정 적용"" / $"" / 소유자 있는 {skippedOwned}개는 건너뜀"""
+PaperRewards.cs,PaperRewards,Mooddang + VibeCoding + Gemini,X,5,65,0,0,0,"$""<color=#FFA500>[현상금]</color> \n금일 획득 가능한 현상금 최대치 / $""<color=#FFA500>[현상금]</color> \n보관함이 가득 찼습니다! ({_ / $""<color=red>[현상금]</color> {GR_COOLDOWN - (now - l"
+TreePlanter.cs,Tree Planter,Bazz3l / MoDDang + Gemini,O,5,71,0,0,0,"""<b>원예 상점</b>"" / ""마우스 휠 혹은 클릭 후 드래그하여 스크롤 하면 더 많은 항목을 볼 수 있습니다."" / ""권한이 없습니다."""
+WorkbenchRetriever.cs,Workbench Retriever,MooDDang + VibeCoding,X,5,73,0,0,0,"""워크벤치 주변 상자 자동 연결 및 인벤토리 가득 참 버그 픽스"" / ""<color=#ff5555>인벤토리에 공간이 없어 제작할 수 없습니다.</color>\n / ""<color=#aaaaaa>재료는 소모되지 않았습니다.</color>"""
+BypassActive.cs,Bypass Active,YaMang -w-,X,4,73,3,0,0,"""명예 유저 전용(유일) 장비를 권한 없는 유저가 들지 못하게 막습니다."" / ""<color=#E8C4FF>[유일 장비]</color> 명예 유저만 사용할 수 있는 장비 / ""손에 든 아이템이 없습니다."""
+InstantAmmo.cs,Instant Ammo,YaMang-w-,O,4,71,0,0,8,"""콜루세움 입장: 자동 재장전이 비활성화 되었습니다."" / ""이 지역에서는 자동 재장전을 사용할 수 없습니다."" / $""<color=#orange>[ 사용 가능한 총기 목록 ]</color>\n{result"
+Bank.cs,Bank,Calytic / Updated,X,3,39,0,0,0,"""<color=#E0A030><b>[강화장비 창고]</b></color>\n"" / ""이 아이템은 넣을 수 없습니다.\n"" / ""<color=#AAAAAA>• 강화장비가 아니거나, 방탄판이 장착되어 있습니다.</col"
+DiscordSync.cs,Discord Sync,Tricky & OuTSMoKE / 테마파크 커스텀,X,3,19,1,0,0,"""Tricky & OuTSMoKE / 테마파크 커스텀"" / ""Integrates players with the discord server (mythi / ""명예유저"""
+FlyingCarpet.cs,FlyingCarpet,RFC1920,O,3,71,0,0,5,"""<color=red>이 지역에서는 소환할 수 없습니다.</color>"" / ""<color=red>카펫에 탑승 중에는 무기와 지팡이를 사용할 수 없습니다!\n(발포 해 / $""<color=red>해당 지역에서는 양탄자가 비활성화 됩니다.</color>"""
+GhostBuster.cs,Ghost Buster,DebugTool,X,3,21,5,0,0,"""럭키박스 상태 진단 및 영구 삭제 도구"" / ""ON (박제됨)"""
+ItemLimits.cs,ItemLimits,YaMang -w- / MooDDang + VibeCoding + Gemini,X,3,58,3,1,0,"""UID 기반 아이템 획득 제한 플러그인 (캐싱 최적화 버전)"" / $""<color=red>[제한] {shortname} 아이템의 하루 획득량({limitMa / $""{_config.Prefix}{shortname} 획득 제한: <color=yellow"
+SimpleKill.cs,SimpleKill,Assistant,X,3,39,0,0,0,"$""<color=#ff5555>자살 쿨타임</color>이 {remaining:0}초 남았 / ""당신은 <color=#ff5555>자살</color>했습니다."" / $""자살하시려면 <color=#ffaa00>{ConfirmTimeout}초</color> "
+ETCPotion.cs,ETC Potion,YaMang-w-,X,2,18,0,0,0,"""포션"" / $""해당 지역에서 포션을 마실수 없습니다."""
+InfoPanel.cs,InfoPanel,Mevent & User,X,2,23,0,0,0,"""<color=#aaffaa>기본 UI가 활성화되었습니다.</color>"" / ""<color=#ffaaaa>기본 UI가 비활성화되었습니다.</color>"""
+LangFlush.cs,LangFlush,custom,X,2,20,2,4,0,"""oxide/lang 파일 수정분을 재부팅 없이 즉시 반영시킨다."" / ""전체"""
+MTools.cs,MTools,UNKNOWN#2214,X,2,65,2,0,0,"""뀨"" / ""<color=#00ffff>[!@DDOS 공격 감지됨@!]</color>\n30초 후 아"
+NavMeshSpamBlock.cs,NavMesh Spam Block,custom,X,2,44,0,5,0,"""navmesh가 없는 위치에서 NavMeshAgent 활성화를 건너뛰어 유니티 네이티브  / $""[NavMeshSpamBlock] 차단(로그 억제): {Suppressed}건 / 통과"
+PveMode.cs,PveMode,KpucTaJl,O,2,58,0,0,0,"""<color=#ce3f27>아직 이 이벤트의 소유권자가 없습니다.</color> 이벤트를 / ""<color=#ce3f27>보상 쿨타임이 {time} 남아</color> 이 이벤트의 보"
+Shop.cs,Shop,Mevent,O,2,8,0,0,0,"""상점 판매(Shops)"" / ""상점 구매(Shops)"""
+Shops.cs,Shops,Mevent,O,2,8,0,0,0,"""상점 판매(Shops)"" / ""상점 구매(Shops)"""
+StackSizeController.cs,Stack Size Controller,Canopy Sheep,X,2,36,0,0,0,"""<color=#ff5555>[베팅 제한]</color> 최대 스택(<color=#ffcc / ""<color=#aaaaaa>우클릭 분할 등으로 나눠서 걸어주세요.</color>"""
+CooldownCommands.cs,Cooldown Commands,YaMang -w-,X,1,3,0,0,0,"$""{remainingTime}초 남음"""
+DEnchantSkinStackFix.cs,DEnchant Skin Stack Fix,DEnchant Addon,X,1,22,0,0,0,"""DEnchant 강화 아이템 및 특정 지정된 스킨의 스택을 방지합니다."""
+GeneralItemModifier.cs,General Item Modifier,Rick,X,1,2,0,0,0,"""100달러"""
+HorsePrivilegeBlocker.cs,HorsePrivilegeBlocker,YourName,X,1,16,0,0,0,"""TC 권한자만 TC 안의 말에 데미지 주도록 차단"""
+HumanNPC.cs,Human NPC,Razor,X,1,4,1,0,0,"""  ---- 호출 스택 ----"""
+JetPack.cs,JetPack,Adem,O,1,11,0,0,0,"$"" | 비행중: 적용배율={jetpack.ThrustMultiplier} 현재속도={je"
+MyItems.cs,Soulbound Items,MooDDang + VibeCoding,X,1,49,0,0,0,"""<color=#ff5555>[경고]</color> 이 아이템은 <color=#55aaff"
+NpcGrenadeReducer.cs,NpcGrenadeReducer,Custom,X,1,17,0,0,0,"""NPC가 던지는 콩폭탄 데미지를 감소시킵니다."""
+NpcStatScaler.cs,NpcStatScaler,you,X,1,38,5,0,0,"""프리팹 이름별로 바닐라 NPC의 데미지/체력을 뻥튀기. 커스텀 NPC(체력이 바닐라와 다"
+RaidableLootGuard.cs,RaidableLootGuard,custom,X,1,26,3,1,0,"""레이더블베이스 영역 안의 NPC/상자를 CustomLoot이 덮어쓰지 않도록 보호한다."""
+SimpleKillFeed.cs,Simple Kill Feed,Krungh Crow,O,1,4,0,0,0,"""방호드론"""
+SoundLibraryApi.cs,Sound Library Api,supreme,O,1,2,3,1,0,"$""... 외 {total - shown}개"""
+TruePVE.cs,TruePVE,nivex,O,1,15,1,0,0,"""몬주먼트 기물은 제거할 수 없습니다."""
+AdminRadar.cs,Admin Radar,nivex,O,0,0,0,0,0,
+AlwaysHotSpot.cs,AlwaysHotSpot,bmgjet/UserModified,X,0,0,0,0,0,
+AnimalSpawn.cs,AnimalSpawn,KpucTaJl,X,0,0,0,0,0,
+AntiLadderandTwig.cs,Anti Ladder and Twig,kaucsenta,O,0,0,0,0,0,
+ArenaFFA.cs,Arena FFA,k1lly0u,O,0,0,0,0,0,
+ArenaTDM.cs,Arena Team Deathmatch,k1lly0u,O,0,0,0,0,0,
+ArmoredTrain.cs,ArmoredTrain,Adem,O,0,0,0,0,0,
+AutoCCTVStations.cs,Auto CCTV Stations,Khan,X,0,0,0,0,0,
+AutoChickenPetter.cs,AutoChickenPetter,ChatGPT‑Assistant,X,0,0,1,0,0,
+AutoEmojis.cs,AutoEmojis,YaMang -w-,X,0,0,0,0,0,
+AutoPlant.cs,Auto Plant,Egor Blagov / rostov114,O,0,0,0,0,0,
+AutomatedWorkcarts.cs,Automated Workcarts,WhiteThunder,O,0,0,0,0,0,
+AutomaticAuthorization.cs,Automatic Authorization,k1lly0u/Arainrr/ADS,O,0,0,0,0,0,
+BGrade.cs,BGrade,Ryan / Rustoria.co,O,0,0,0,0,0,
+BackpacksItemBlock.cs,Backpacks Item Block,YaMang -w-,O,0,0,1,0,0,
+BetterChat.cs,Better Chat,LaserHydra,O,0,0,0,0,0,
+BetterChatMute.cs,Better Chat Mute,LaserHydra,O,0,0,0,0,0,
+BetterHealing.cs,Better Healing,Default,X,0,0,0,0,0,
+BetterNoStability.cs,Better No Stability,Arainrr,O,0,0,0,0,0,
+BlindDeath.cs,BlindDeath,UNKNOWN#2214,X,0,0,0,0,0,
+BlockCommands.cs,Block Commands,UNKNOWN,O,0,0,0,0,1,
+BlueprintManager.cs,Blueprint Manager,Whispers88,O,0,0,0,0,0,
+Boombox.cs,Boombox,Reheight/RyanJD,X,0,0,0,0,0,
+BossMonster.cs,BossMonster,KpucTaJl,O,0,0,0,0,0,
+BotReSpawn.cs,BotReSpawn,Steenamaroo,O,0,0,0,0,0,
+BoxLooters.cs,BoxLooters,4seti / k1lly0u,O,0,0,0,0,0,
+BuildingGrades.cs,Building Grades,Default/Arainrr,O,0,0,0,0,0,
+BuildingWorkbench.cs,Building Workbench,MJSU,O,0,0,0,0,0,
+BulletProjectile.cs,BulletProjectile,Karuza,X,0,0,0,0,0,
+BypassQueue.cs,Bypass Queue,Orange,X,0,0,0,0,0,
+CarLockUI.cs,Car Lock UI,WhiteThunder,O,0,0,0,0,0,
+CargoPlaneCrash.cs,CargoPlaneCrash,Fruster,O,0,0,0,0,0,
+ChainsawOptions.cs,Chainsaw Options,Arainrr,X,0,0,0,0,0,
+ChaosExtensionDownloader.cs,ChaosExtensionDownloader,k1lly0u,X,0,0,0,0,0,
+ChatToNotifications.cs,ChatToNotifications,beee,O,0,0,0,0,0,
+Clans.cs,Clans,k1lly0u,O,0,0,0,0,0,
+ClansUI.cs,ClansUI,k1lly0u,X,0,0,0,0,0,
+ColouredChat.cs,Coloured Chat,collect_vood,O,0,0,0,0,0,
+CombatLogger.cs,Combat Logger,Tori1157/RocketMyrr,O,0,0,0,0,0,
+CommandRateLimiter.cs,CommandRateLimiter,Calytic,O,0,0,0,0,0,
+CommandsItem.cs,Commands Item,YaMang -w-,O,0,0,0,0,0,
+ComponentBlocker.cs,Component Blocker,Calytic,X,0,0,0,0,0,
+CompoundOptions.cs,Compound Options,FastBurst,X,0,0,0,0,0,
+ConsoleFilter.cs,Console Filter,Wulf,X,0,0,0,0,0,
+ConsoleLogger.cs,Console Logger,YaMang -w-,X,0,0,0,0,0,
+CopyPaste.cs,Copy Paste,misticos,O,0,0,0,0,0,
+Crosshair.cs,Crosshair,MisterPixie / Merged,O,0,0,1,0,0,
+CustomAnimalSpawns.cs,CustomAnimalSpawns,k1lly0u,O,0,0,0,0,0,
+CustomButtons.cs,CustomButtons,David,O,0,0,0,0,0,
+CustomEntities.cs,Custom Entities,Nikedemos,O,0,0,0,0,0,
+CustomGenetics.cs,Custom Genetics,rostov114 / yoshi2,O,0,0,0,0,0,
+CustomLoot.cs,CustomLoot,Steenamaroo,X,0,0,0,0,0,
+CustomMapName.cs,Custom Map Name,Ryz0r,X,0,0,0,0,0,
+CustomRecycle.cs,CustomRecycle,ThePitereq,O,0,0,0,0,0,
+CustomSkinsStacksFix.cs,Custom Skins Stacks Fix,Orange,X,0,0,0,0,0,
+CustomSpawnPoints.cs,CustomSpawnPoints,Reneb / k1lly0u,X,0,0,0,0,0,
+CustomVendingSetup.cs,Custom Vending Setup,WhiteThunder,O,0,0,0,0,0,
+Dance.cs,Dance,senyaa,O,0,0,0,0,0,
+DangerousTreasures.cs,Dangerous Treasures,nivex,O,0,0,0,0,0,
+DraggableCorpses.cs,Draggable Corpses,Dana,O,0,0,0,0,0,
+DynamicPVP.cs,Dynamic PVP,HunterZ/CatMeat/Arainrr,O,0,0,0,0,0,
+Economics.cs,Economics,Wulf,O,0,0,0,0,0,
+EnemyBar.cs,Enemy Bar,Orange,X,0,0,0,0,0,
+EntityOwner.cs,Entity Owner,Calytic,O,0,0,0,0,0,
+EntityScaleManager.cs,Entity Scale Manager,WhiteThunder,O,0,0,0,0,0,
+EternalPlants.cs,Eternal Plants,0x89A,X,0,0,0,0,0,
+F15AirStrike.cs,F15AirStrike,Fruster,X,0,0,0,0,0,
+FancyDrop.cs,FancyDrop,FastBurst,O,0,0,0,0,0,
+FerryTerminalEvent.cs,FerryTerminalEvent,KpucTaJl,O,0,0,0,0,0,
+FireArrows.cs,FireArrows,Colon Blow,O,0,0,0,0,0,
+Friends.cs,Friends,Wulf,O,0,0,0,0,0,
+FurnaceSplitter.cs,Furnace Splitter,FastBurst,O,0,0,0,0,0,
+GatherManager.cs,Gathering Manager,Mughisi,X,0,0,0,0,0,
+GhostCleaner.cs,GhostCleaner,Mooddang + Gemini,O,0,0,0,0,0,
+Give.cs,Give,Wulf,O,0,0,0,0,0,
+HackableLock.cs,Hackable Lock,Ryz0r,O,0,0,0,0,0,
+HarborEvent.cs,HarborEvent,KpucTaJl,O,0,0,0,0,0,
+HeliSpeed.cs,HeliSpeed,The_Kiiiing (Modified),X,0,0,0,0,0,
+HomelessManager.cs,Homeless Manager,MooDDang + VibeCoding,X,0,0,0,0,0,
+Identifier.cs,Identifier,Wulf,O,0,0,0,0,0,
+ImageLibrary.cs,Image Library,Absolut & K1lly0u,X,0,0,0,0,0,
+InstantBuy.cs,Instant Buy,Jake_Rich/collect_vood/Bushhy,X,0,0,0,0,0,
+InstantCraft.cs,Instant Craft,Vlad-0003 / Orange / rostov114,O,0,0,0,0,0,
+InstantMixingTable.cs,Instant Mixing Table,MJSU,X,0,0,0,0,0,
+InvLock.cs,Inv Lock,Dana,O,0,0,0,0,0,
+ItemRetriever.cs,Item Retriever,WhiteThunder,X,0,0,0,0,0,
+KaruzaEntitiesCommon.cs,KaruzaEntitiesCommon,Karuza,O,0,0,0,0,0,
+KaruzaVehiclePush.cs,KaruzaVehiclePush,Karuza,X,0,0,0,0,0,
+Kits.cs,Kits,k1lly0u,O,0,0,0,0,0,
+LightsOn.cs,Lights On,mspeedie,O,0,0,0,0,0,
+LootBouncer.cs,Loot Bouncer,Sorrow/Arainrr,O,0,0,0,0,0,
+LootManager.cs,LootManager,Adem,X,0,0,0,0,0,
+MagicLoot.cs,Magic Loot,collect_vood,X,0,0,0,0,0,
+MapNoteTeleport.cs,MapNote Teleport,MON@H,O,0,0,0,0,0,
+MinicopterSpawnPlugin.cs,MinicopterSpawnPlugin,Bojack,X,0,0,0,0,0,
+MinigunHeatingChange.cs,Minigun Heating Change,YaMang -w-,X,0,0,0,0,0,
+MlrsRemover.cs,Mlrs Remover,YaMang -w-,X,0,0,0,0,0,
+MyCH47.cs,My CH47,FastBurst,O,0,0,0,0,0,
+NTeleportation.cs,NTeleportation,nivex,O,0,0,0,0,0,
+NeverWear.cs,NeverWear,k1lly0u,X,0,0,0,0,0,
+NoCrashFlyingVehicles.cs,No Crash Flying Vehicles,MON@H,X,0,0,0,0,0,
+NoDurability.cs,NoDurability,Wulf/lukespragg/Arainrr,X,0,0,0,0,0,
+NoFishingVillageProtection.cs,No Fishing Village Protection,Custom,X,0,0,0,0,0,
+NoWeaponDrop.cs,No Weapon Drop,Fujikura,X,0,0,0,0,0,
+Notify.cs,Notify,Mevent,O,0,0,0,0,0,
+NpcSpawn.cs,NpcSpawn,KpucTaJl,X,0,0,0,0,0,
+PathFinding.cs,PathFinding,Reneb / Nogrod,X,0,0,0,0,0,
+PerfectRepair.cs,Perfect Repair,The Friendly Chap,X,0,0,0,0,0,
+PermissionCommands.cs,PermissionCommands,YaMang -w-,X,0,0,0,0,0,
+PersonalHeli.cs,Personal Heli,Egor Blagov,O,0,0,0,0,0,
+PlayerAdministration.cs,PlayerAdministration,ThibmoRozier,O,0,0,0,0,0,
+PlayerList.cs,PlayerList,Wulf/lukespragg,O,0,0,0,0,0,
+PlayingCards.cs,PlayingCards,k1lly0u,X,0,0,0,0,0,
+PlaytimeTracker.cs,Playtime Tracker,k1lly0u / Optimized,O,0,0,0,0,0,
+PopUpAPI.cs,PopUpAPI,ThePitereq,X,0,0,0,0,0,
+Portals.cs,Portals,LaserHydra,O,0,0,0,0,0,
+PrefabSniffer.cs,Prefab Sniffer,Wulf,O,0,0,0,0,0,
+PreferredEnvironment.cs,PreferredEnvironment,k1lly0u,O,0,0,0,0,0,
+PreventLooting.cs,PreventLooting,CaseMan/Promeus,O,0,0,0,0,0,
+PrivateAdminMessage.cs,Private Admin Message,waayne,O,0,0,0,0,0,
+PrivateMessages.cs,PrivateMessages,MisterPixie,O,0,0,0,0,0,
+QuickSmelt.cs,Quick Smelt,misticos,X,0,0,0,0,0,
+QuickSort.cs,Quick Sort,MON@H,O,0,0,0,0,0,
+Radio.cs,Radio,Karuza,X,0,0,0,0,0,
+RaidableBases.cs,Raidable Bases,nivex,O,0,0,0,0,0,
+RemoveAnimalsAI.cs,Remove Animals AI,Whipers88 @CobaltStudios,X,0,0,0,0,0,
+RemoverTool.cs,Remover Tool,Reneb/Fuji/Arainrr/Tryhard,O,0,0,0,0,0,
+RespawnBradley.cs,Respawn Bradley,PinguinNordpol,O,0,0,0,0,0,
+RustCar.cs,RustCar,Karuza,X,0,0,4,0,0,
+RustEditAPIExample.cs,RustEditAPIExample,k1lly0u,X,0,0,0,0,0,
+SaveAnnouncer.cs,Save Announcer,Ryan,O,0,0,0,0,0,
+ScrapHelicopterFix.cs,Scrap Helicopter Fix,Orange,X,0,0,0,0,0,
+ServerStatus.cs,Server Status,UNKN0WN,O,0,0,0,0,12,
+SignArtist.cs,Sign Artist,Whispers88,O,0,0,0,0,0,
+SimpleLootTable.cs,SimpleLootTable,Fruster,X,0,0,0,0,0,
+SimpleMetabolism.cs,Simple Metabolism,Gemini,X,0,0,0,0,0,
+SpawnModularCar.cs,Spawn Modular Car,WhiteThunder,O,0,0,0,0,0,
+Spawns.cs,Spawns,Reneb / k1lly0u,O,0,0,0,0,0,
+StartKit.cs,Start Kit,UNKNOWN#2214,X,0,0,0,0,0,
+SuperCard.cs,Super Card,Mevent,O,0,0,0,0,0,
+TargetableDrones.cs,Targetable Drones,WhiteThunder,X,0,0,0,0,0,
+TeaModifiers.cs,Tea Modifiers,MJSU,X,0,0,0,0,0,
+TeamIdResync.cs,TeamIdResync,Assistant,X,0,0,0,0,0,
+TeamInfo.cs,Team Info,Lorddy,O,0,0,0,0,0,
+TemporaryBarricades.cs,Temporary Barricades,Norn,X,0,0,0,0,0,
+TerrainViolationFix.cs,Terrain Violation Fix,Tryhard,X,0,0,0,0,0,
+TimeOfDay.cs,TimeOfDay,FuJiCuRa,X,0,0,0,0,0,
+TimedExecute.cs,Timed Execute,PaiN,X,0,0,0,0,0,
+UINotify.cs,UI Notify,Mevent,O,0,0,0,0,0,
+UnlimitedElevators.cs,Unlimited Elevators,k1lly0u,O,0,0,0,0,0,
+VehicleDecayProtection.cs,Vehicle Decay Protection,WhiteThunder,X,0,0,0,0,0,
+VendingInStock.cs,Vending In Stock,AVOcoder,X,0,0,0,0,0,
+VirtualQuarries.cs,VirtualQuarries,ThePitereq,O,0,0,0,0,0,
+WaterCatcherBoost.cs,Water Catcher Boost,Substrata,X,0,0,0,0,0,
+WaterlessSprinklers.cs,Waterless Sprinklers,Lorenzo,X,0,0,0,0,0,
+Waypoints.cs,Waypoints,RFC1920,O,0,0,0,0,0,
+WelcomePanel.cs,WelcomePanel,David,X,0,0,0,0,0,
+XDQuest.cs,XDQuest,DezLife,O,0,0,0,0,0,
+ZLevelsRemastered.cs,ZLevels Remastered,nivex,O,0,0,0,0,0,
+ZoneDomes.cs,Zone Domes,k1lly0u,O,0,0,0,0,0,
+ZoneManager.cs,Zone Manager,k1lly0u,O,0,0,0,0,0,
